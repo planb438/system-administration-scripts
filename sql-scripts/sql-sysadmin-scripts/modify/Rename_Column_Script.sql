@@ -1,0 +1,1 @@
+ALTER TABLE employees RENAME COLUMN name TO full_name;

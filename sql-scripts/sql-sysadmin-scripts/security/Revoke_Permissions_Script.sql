@@ -1,0 +1,1 @@
+REVOKE INSERT ON company_db.* FROM 'admin_user'@'localhost';

@@ -1,0 +1,1 @@
+CREATE USER 'admin_user'@'localhost' IDENTIFIED BY 'StrongP@ssw0rd';

@@ -1,0 +1,1 @@
+GRANT SELECT, INSERT, UPDATE ON company_db.* TO 'admin_user'@'localhost';

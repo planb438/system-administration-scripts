@@ -1,0 +1,1 @@
+-- Run from shell: mysqldump -u root -p company_db > backup.sql

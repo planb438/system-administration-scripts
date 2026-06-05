@@ -1,0 +1,1 @@
+REINDEX DATABASE company_db;

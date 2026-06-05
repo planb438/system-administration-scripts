@@ -1,0 +1,1 @@
+DELETE FROM logs WHERE log_date < NOW() - INTERVAL 30 DAY;
