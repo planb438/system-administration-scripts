@@ -4,8 +4,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-TechShorts-red)](https://www.youtube.com/@adaribain)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adari%20Bain-blue)](https://www.linkedin.com/in/adari-bain-298924152/)
 
-Complete README for system-administration-scripts
-markdown
 # 🛠️ System Administration Scripts
 
 ## 📋 Overview
